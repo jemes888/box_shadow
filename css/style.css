@@ -1,0 +1,31 @@
+.box1{
+	border: 1px solid;
+	min-height: 100px;
+	padding: 10px;
+	text-align: center;
+	box-shadow: 5px 10px green;
+}
+.box2{
+	border: 1px solid;
+	min-height: 100px;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+	box-shadow: 5px 10px #888888;	
+}
+.box3{
+	border: 1px solid;
+	min-height: 100px;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+	box-shadow: 20px 20px 10px grey;	
+}
+.box4{
+	border: 1px solid;
+	min-height: 100px;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+	box-shadow: 20px 20px 50px 10px pink inset;	
+}
